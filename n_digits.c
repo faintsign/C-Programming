@@ -1,5 +1,5 @@
 /*
- * File:		NDigits
+ * File:		n_digits.c
  * Project:		C-Programming
  * Date:		11.02.22
  * Author:		Faint
